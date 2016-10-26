@@ -1,8 +1,8 @@
 <?php
 
-$ranksetNames["mario"] = "Mario";
+$ranksetNames["default"] = "Default";
 
-$ranksetData["mario"] = array(
+$ranksetData["default"] = array(
 	array("num" => 0, "image" => '', "text" => 'Nobody'),
 	array("num" => 1, "image" => '', "text" => 'Random nobody'),
 	array("num" => 10, "image" => '', "text" => 'User'),
